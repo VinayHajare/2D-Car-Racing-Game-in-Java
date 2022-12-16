@@ -1,6 +1,10 @@
 /*
- * Click nbfs://nbhost/SystemFileSystem/Templates/Licenses/license-default.txt to change this license
- * Click nbfs://nbhost/SystemFileSystem/Templates/Classes/Main.java to edit this template
+ * Title :- 2D Car Racing Game
+ * Author :- Vinay Arjun Hajare
+ * Platform :- Windows 10 x64
+ * IDE :- NetBeans 14
+ * Language Used :- Java
+ * JDK :- jdk 16
  */
 package car_game;
 import java.awt.Color;
@@ -18,7 +22,7 @@ import javax.swing.JFrame;
 import javax.swing.Timer;
 /**
  *
- * @author Isha
+ * @author Vinay Hajare
  */
 public class Car_Game extends JFrame implements KeyListener,ActionListener{
 
